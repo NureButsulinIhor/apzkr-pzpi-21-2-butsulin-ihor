@@ -1,0 +1,17 @@
+body, div#root {
+    display: flex;
+    min-height: 97vh; /* Ensure body covers full viewport height */
+    flex-direction: column; /* Stack elements vertically */
+}
+
+main { /* Or your main content container */
+    flex: 1; /* Allow main content to grow and push footer down */
+}
+
+footer {
+    text-align: end;
+}
+
+a {
+    text-decoration: none;
+}

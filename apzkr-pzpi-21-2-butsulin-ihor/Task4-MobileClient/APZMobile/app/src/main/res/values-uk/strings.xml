@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">АПЗ Мобайл</string>
+    <string name="loginWelcome">Будь-ласка, використайте автентифікацію Гугл.</string>
+    <string name="errWrongUserType">Вибачте, функціональність адміністратора недоступна. Будь-ласка, використайте веб-версію.</string>
+    <string name="storage">Сховище</string>
+    <string name="cars">Машини</string>
+    <string name="tasks">Завдання</string>
+    <string name="workers">Працівники</string>
+    <string name="slot">Місце зберігання</string>
+    <string name="item">Товар</string>
+    <string name="empty">Пусто</string>
+    <string name="car">Машина</string>
+    <string name="owner">Власник</string>
+    <string name="addCar">Додати машину</string>
+    <string name="done">Виконано</string>
+    <string name="chooseCar">Оберіть машину</string>
+    <string name="transfer">Перенесення</string>
+    <string name="from">З</string>
+    <string name="to">в</string>
+    <string name="warehouse">Склад</string>
+    <string name="transfers">Переміщення</string>
+    <string name="task">Завдання</string>
+    <string name="worker">Працівник</string>
+    <string name="status">Статус</string>
+    <string name="yes">Так</string>
+    <string name="no">Ні</string>
+    <string name="addTask">Додати завдання</string>
+    <string name="working">Працює</string>
+    <string name="notWorking">Не працює</string>
+</resources>

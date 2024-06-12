@@ -1,0 +1,5 @@
+url: ":8082"
+isConsoleLogger: true
+googleClientID: ""
+timeout: 10
+# logFilePath: "path"

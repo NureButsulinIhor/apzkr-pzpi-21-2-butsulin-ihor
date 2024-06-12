@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">APZ Mobile</string>
+    <string name="loginWelcome">Please, use Google LogIn screen.</string>
+    <string name="errWrongUserType">Sorry, admin functionaly is unsupported. Please, use web version of the app.</string>
+    <string name="storage">Storage</string>
+    <string name="cars">Cars</string>
+    <string name="tasks">Tasks</string>
+    <string name="workers">Workers</string>
+    <string name="slot">Slot</string>
+    <string name="item">Item</string>
+    <string name="empty">Empty</string>
+    <string name="car">Car</string>
+    <string name="owner">Owner</string>
+    <string name="addCar">Add car</string>
+    <string name="done">Done</string>
+    <string name="chooseCar">Choose Car</string>
+    <string name="transfer">Transfer</string>
+    <string name="from">From</string>
+    <string name="to">to</string>
+    <string name="warehouse">Warehouse</string>
+    <string name="transfers">Transfers</string>
+    <string name="task">Task</string>
+    <string name="worker">Worker</string>
+    <string name="status">Status</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="addTask">Add task</string>
+    <string name="working">Working</string>
+    <string name="notWorking">Not working</string>
+</resources>
