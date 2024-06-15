@@ -432,7 +432,7 @@ IoT пристрій буде виконувати регулярні HTTPS за
 1.	Microsoft Dynamics 365 Supply Chain Management / Завантаження. URL: https://www.microsoft.com/en-us/dynamics-365/products/supply-chain-management (дата звернення: 14.06.2024).
 2.	Oracle WMS / Завантаження. URL: https://www.oracle.com/scm/logistics/warehouse-management/ (дата звернення: 14.06.2024).
 3.	Репозиторій реалізованої програмної системи. URL: https://github.com/NureButsulinIhor/apzkr-pzpi-21-2-butsulin-ihor.git (дата звернення: 14.06.2024).
-4.	Відеозапис функціонального тестування розробленої програмної системи. URL: https://youtube.com/ (дата звернення: 14.06.2024). 
+4.	Відеозапис функціонального тестування розробленої програмної системи. URL: https://youtu.be/YNLvjw0-x0E (дата звернення: 14.06.2024). 
 ДОДАТОК А
 Діаграми
 
